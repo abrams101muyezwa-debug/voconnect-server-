@@ -1,0 +1,16 @@
+{
+  "name": "voconnect-server",
+  "version": "1.0.0",
+  "description": "VoConnect WebRTC signaling server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.5"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
